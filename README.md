@@ -9,3 +9,5 @@ Welcome to APSSDC Web Development Using Django Training this repository consists
 ### recorded videos Link:
 
 [Day 1](https://transcripts.gotomeeting.com/#/s/6f97ba45968f78583940e7d647c9b2dff43154ef1f330d27c01d5f8ef4866e14)
+
+[Day 2](https://transcripts.gotomeeting.com/#/s/8227e178dd85b93e8566cba36b6548b5ada1a55a4ced077f7f413d09f36c6e33)
