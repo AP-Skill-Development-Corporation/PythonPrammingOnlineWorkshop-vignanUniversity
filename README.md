@@ -17,3 +17,27 @@ Welcome to APSSDC Web Development Using Django Training this repository consists
 [Day 4](https://transcripts.gotomeeting.com/#/s/1b483d1fa8fa1eaab47bed9ed346811da7fe278a74797cf212e679c3c24dacae)
 
 [Day 5](https://transcripts.gotomeeting.com/#/s/f8cfefef21708764a6eaa700bd6d8107ec0afc7603ccb83294c499fe1f3f46c9)
+
+
+
+# Day-1
+- Python Introduction
+- Literate Programming
+- Markdown Basics
+
+# Day-2
+- Python Basics
+
+# Day-3
+- Data Stuructures
+
+# Day-4
+- Data Structures Cont...
+
+# Day-5
+- Functional Programming
+- Comprehensions in Python
+
+# Day-6
+- File Handling
+- Regular Expressions
